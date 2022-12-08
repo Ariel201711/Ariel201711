@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=ariel201711&label=Profile%20views&color=0e75b6&style=flat" alt="ariel201711"/> 
 </p>
 
-- ⚡ **I am highly motivated, having patience, diligence and willingness to work and learn new fields.**
+- ⚡ **I am highly motivated and diligent to work and learn new fields.**
 
 - 🤝 Check out the last update of [Frayerr](https://frayerr.onrender.com/)
 
